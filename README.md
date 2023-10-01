@@ -1,18 +1,5 @@
-### Olá 👋 
-Busco obter meu primeiro emprego como
-desenvolvedora júnior, onde possa adquirir
-experiência prática na área e continuar a aprender e
-me desenvolver como profissional. 
-- 🔭 Tenho paixão
-por ver os projetos ganhando vida, sendo utilizados
-por usuários reais, e desfruto da colaboração em
-equipe e dos desafios que impulsionam meu
-crescimento. 
-- 🌱 Atualmente estou começando a faculdade de engenhria de softwere. 
-- 🤝 Comprometo-me a cumprir tarefas
-com excelência, superar obstáculos e contribuir
-para o sucesso da empresa, buscando sempre
-aprimorar minhas habilidades e conhecimentos.
+### Hi, i'm Kelly Moura 👋  
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
