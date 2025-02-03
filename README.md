@@ -15,7 +15,7 @@ Desenvolvedora fullstack com paixão por transformar ideias em soluções digita
 
 ## 👩‍💻 Sobre mim
 
-- 💼 **Atualmente:** Desenvolvedora na Sertão Dev, contribuindo para o projeto Mapas Culturais, um software livre que fortalece a cultura no estado do Ceará.
+- 💼 **Atualmente:** Desenvolvedora na Sertão Dev, contribuindo para o projeto Aurora, um software livre que fortalece a cultura no estado do Ceará.
 - 🎯 **Foco:** Desenvolvimento web fullstack, com especialização em PHP, Symfony, e Docker. Sempre em busca de melhorar a acessibilidade e usabilidade em todos os projetos.
 - 🌱 **Aprendizado contínuo:** Explorando novas tecnologias e abordagens ágeis para otimizar processos e entregar produtos de alta qualidade.
 - 🎨 **Interesses:** Boas práticas de desenvolvimento, repassar conhecimento, back-end, UX/UI design, acessibilidade, e desenvolvimento de ferramentas open-source.
